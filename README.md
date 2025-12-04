@@ -1,2 +1,2 @@
 # GitTest
-练习git
+练习github使用
